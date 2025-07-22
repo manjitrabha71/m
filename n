@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<body>
+<body bgcolor="white"
+
+<font size = 10 color =black  face = Gill Sans>
+
+<h>SEPARATION OF SUBSTANCES</h>
+
+<font size = 5 color =red  face = Gill Sans>
+
+     <h>I KNOW</h>
+
+     <font size = 3 color =blue  face = Gill Sans>
+
+     <p>1. Some things found in nature are mixtures of many things. Soil and air are mixtures.
+
+<p>2. Some things occur as pure substances. Water, sugar and table salt can occur as pure substances.
+
+<font size = 5 color =black  face = Gill Sans>
+
+<h>I WILL LEARN -------------------------------------------------------------------------------------</h>
+
+<font size = 3 color =green  face = Gill Sans>
+
+<p>1. Pure substances and mixtures</p>
+
+<p>2. Separation of substances</p>
+
+<hr height=1>
+
+</body>
+</html>
